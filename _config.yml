@@ -14,6 +14,6 @@ url: "http://hkadivar.github.io" # the base hostname & protocol for your site
 github_username:  hkadivar
 paginate: 5
 
-gems: [jekyll-paginate, kramdown]
+plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
